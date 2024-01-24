@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivam Giri
-- 👀 I’m interested in Mobile Application Development (Java, Android Studio, Dart, Flutter etc.)
+- 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning MySQL
 - 💞️ I’m looking to collaborate on Mobile App Development
 
