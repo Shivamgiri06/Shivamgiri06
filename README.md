@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivam Giri
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Mobile App Development
 
 <!---
