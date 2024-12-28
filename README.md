@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Shivam Giri
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Analytics
